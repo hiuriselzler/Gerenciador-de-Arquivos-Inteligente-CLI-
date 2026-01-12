@@ -38,6 +38,9 @@ Argumento,Abreviação,Obrigatório,Descrição
 
 --verbose,    -v,   Não,     Ativa logs detalhados no console.
 
+
+
+
 Estrutura do Projeto
 main.py: Ponto de entrada.
 Gerencia os argumentos e inicia o processo.
