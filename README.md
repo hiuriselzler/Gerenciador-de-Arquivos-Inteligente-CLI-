@@ -1,8 +1,8 @@
-Markdown# Gerenciador de Arquivos Inteligente (CLI)
+ Gerenciador de Arquivos Inteligente (CLI)
 
 Uma ferramenta de linha de comando (CLI) desenvolvida em Python para automatizar a organização de arquivos. O script varre um diretório de origem, identifica os tipos de arquivos e os move para pastas categorizadas (como Imagens, Documentos, Audios), gerando logs e relatórios detalhados da operação.
 
-## Funcionalidades
+ Funcionalidades
 
 - **Organização Automática:** Classifica arquivos com base em suas extensões.
 - **Segurança de Dados:** Tratamento automático de conflitos de nome (não sobrescreve arquivos existentes).
@@ -11,12 +11,12 @@ Uma ferramenta de linha de comando (CLI) desenvolvida em Python para automatizar
 - **Relatórios:** Gera arquivos JSON e CSV com o resumo da execução.
 - **Logs:** Registro detalhado de operações e erros (console e arquivo).
 
-## Requisitos
+ Requisitos
 
 - Python 3.8 ou superior.
 - Biblioteca `python-dateutil`.
 
-## Instalação
+ Instalação
 
 1. Clone o repositório:
    ```bash
