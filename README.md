@@ -56,4 +56,5 @@ O script deve ser executado via terminal a partir do arquivo main.py.
         src/utils.py: Funções auxiliares.
 
 Licença
+
 Este projeto é de uso livre para fins educacionais e pessoais.
