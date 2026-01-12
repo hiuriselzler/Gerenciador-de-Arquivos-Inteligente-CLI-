@@ -17,6 +17,7 @@ Uma ferramenta de linha de comando (CLI) desenvolvida em Python para automatizar
 - Biblioteca `python-dateutil`.
 
 Como Usar
+
 O script deve ser executado via terminal a partir do arquivo main.py.
 1. Execução Básica Organiza os arquivos da pasta de origem e cria uma pasta organized dentro dela. python main.py --source "C:/Caminho/Para/Downloads"
 2. Modo Simulação (Dry-Run)Verifica o que seria movido sem realizar alterações reais. Recomendado para a primeira execução. python main.py --source "./minha_pasta" --dry-run
