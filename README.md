@@ -27,10 +27,15 @@ O script deve ser executado via terminal a partir do arquivo main.py.
 
    
 Argumento,Abreviação,Obrigatório,Descrição
+
 --source,-s,Sim,Diretório de origem contendo os arquivos.
+
 --output,-o,Não,Diretório de destino (Padrão: cria pasta 'organized' na origem).
+
 --date,-d,Não,Data de corte (YYYY-MM-DD). Processa arquivos modificados após esta data.
+
 --dry-run,N/A,Não,Ativa o modo de simulação.
+
 --verbose,-v,Não,Ativa logs detalhados no console.
 
 Estrutura do Projeto
