@@ -41,19 +41,19 @@ O script deve ser executado via terminal a partir do arquivo main.py.
 
 
 
-Estrutura do Projeto
-main.py: Ponto de entrada.
-Gerencia os argumentos e inicia o processo.
-
-config.py: Configurações globais (extensões, diretórios ignorados).
-
-src/scanner.py: Responsável por listar e filtrar arquivos.
-
-src/organizer.py: Lógica de movimentação e criação de pastas.
-
-src/reporter.py: Geração de estatísticas e relatórios (CSV/JSON).
-
-src/utils.py: Funções auxiliares.
+       Estrutura do Projeto
+        main.py: Ponto de entrada.
+        Gerencia os argumentos e inicia o processo.
+        
+        config.py: Configurações globais (extensões, diretórios ignorados).
+        
+        src/scanner.py: Responsável por listar e filtrar arquivos.
+        
+        src/organizer.py: Lógica de movimentação e criação de pastas.
+        
+        src/reporter.py: Geração de estatísticas e relatórios (CSV/JSON).
+        
+        src/utils.py: Funções auxiliares.
 
 Licença
 Este projeto é de uso livre para fins educacionais e pessoais.
