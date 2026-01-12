@@ -40,8 +40,8 @@ O script deve ser executado via terminal a partir do arquivo main.py.
 
 
 
-
-       Estrutura do Projeto
+   Estrutura do Projeto
+   
         main.py: Ponto de entrada.
         Gerencia os argumentos e inicia o processo.
         
