@@ -1,0 +1,20 @@
+2026-01-12 08:59:02 - Main - INFO - === Iniciando Processo de Organização ===
+2026-01-12 08:59:02 - Main - INFO - Origem: teste_arquivos
+2026-01-12 08:59:02 - Main - INFO - Destino: teste_arquivos\organized
+2026-01-12 08:59:02 - src.scanner - INFO - Iniciando varredura em: teste_arquivos
+2026-01-12 08:59:02 - src.scanner - INFO - Escaneamento concluído. 3 arquivos encontrados.
+2026-01-12 08:59:02 - src.organizer - INFO - Movido: Aditivo HIURI SELZLER DA SILVA.pdf -> DOCUMENTOS/Aditivo HIURI SELZLER DA SILVA.pdf
+2026-01-12 08:59:02 - src.organizer - INFO - Movido: kdfabkn.docx -> DOCUMENTOS/kdfabkn.docx
+2026-01-12 08:59:02 - src.organizer - INFO - Movido: letter-m-neon-pink-jelly-bubble-png.png -> IMAGENS/letter-m-neon-pink-jelly-bubble-png.png
+2026-01-12 08:59:02 - src.reporter - INFO - Relatório JSON salvo em: teste_arquivos\organized\report.json
+2026-01-12 08:59:02 - src.reporter - INFO - Relatório CSV salvo em: teste_arquivos\organized\report.csv
+2026-01-12 08:59:02 - Main - INFO - === Processo Finalizado com Sucesso ===
+2026-01-12 09:00:06 - Main - INFO - === Iniciando Processo de Organização ===
+2026-01-12 09:00:06 - Main - INFO - Origem: teste_arquivos
+2026-01-12 09:00:06 - Main - INFO - Destino: teste_arquivos\organized
+2026-01-12 09:00:06 - src.scanner - INFO - Iniciando varredura em: teste_arquivos
+2026-01-12 09:00:06 - src.scanner - INFO - Escaneamento concluído. 1 arquivos encontrados.
+2026-01-12 09:00:06 - src.organizer - INFO - Movido: thkjkr.txt -> DOCUMENTOS/thkjkr.txt
+2026-01-12 09:00:06 - src.reporter - INFO - Relatório JSON salvo em: teste_arquivos\organized\report.json
+2026-01-12 09:00:06 - src.reporter - INFO - Relatório CSV salvo em: teste_arquivos\organized\report.csv
+2026-01-12 09:00:06 - Main - INFO - === Processo Finalizado com Sucesso ===

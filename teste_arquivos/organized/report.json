@@ -1,0 +1,20 @@
+{
+    "summary": {
+        "total_files": 1,
+        "total_size_bytes": 6,
+        "total_size_human": "6.0 B",
+        "by_category": {
+            "DOCUMENTOS": 1
+        }
+    },
+    "details": [
+        {
+            "file": "thkjkr.txt",
+            "original_path": "teste_arquivos\\thkjkr.txt",
+            "destination": "teste_arquivos\\organized\\DOCUMENTOS\\thkjkr.txt",
+            "category": "DOCUMENTOS",
+            "size_bytes": 6,
+            "status": "success"
+        }
+    ]
+}
