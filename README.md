@@ -16,13 +16,6 @@ Uma ferramenta de linha de comando (CLI) desenvolvida em Python para automatizar
 - Python 3.8 ou superior.
 - Biblioteca `python-dateutil`.
 
- Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-   cd seu-repositorio
-Instale as dependências:pip install python-dateutil
 Como Usar
 O script deve ser executado via terminal a partir do arquivo main.py.
 1. Execução Básica Organiza os arquivos da pasta de origem e cria uma pasta organized dentro dela. python main.py --source "C:/Caminho/Para/Downloads"
