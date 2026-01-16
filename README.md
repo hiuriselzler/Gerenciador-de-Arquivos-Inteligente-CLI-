@@ -19,7 +19,7 @@ Uma ferramenta de linha de comando (CLI) desenvolvida em Python para automatizar
 Como Usar
 
 O script deve ser executado via terminal a partir do arquivo main.py.
-1. Execução Básica Organiza os arquivos da pasta de origem e cria uma pasta organized dentro dela. python main.py --source "C:/Caminho/Para/Downloads"
+1. Execução Básica Organiza os arquivos da pasta de origem e cria uma pasta organized dentro dela. python main.py --source "C:/pasta/que/deseja/organizar"
 2. Modo Simulação (Dry-Run)Verifica o que seria movido sem realizar alterações reais. Recomendado para a primeira execução. python main.py --source "./minha_pasta" --dry-run
 3. Definir Destino PersonalizadoEspecifica onde os arquivos organizados serão salvos. python main.py --source "./bagunca" --output "./documentos_organizados"
 4. Filtrar por DataOrganiza apenas arquivos modificados após a data especificada (Formato YYYY-MM-DD). python main.py --source "./arquivos" --date 2023-01-01
